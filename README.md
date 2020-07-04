@@ -11,6 +11,7 @@ Will support in the future:
 
     - Typing expressions using keyboard.
     - Floating point decimal results.
+    - Moving the expression prior to clicking the 'equals' button to the top left of the display for user QoL.
     - Looking good.
 
 
